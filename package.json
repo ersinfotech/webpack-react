@@ -1,6 +1,6 @@
 {
   "name": "@ersinfotech/webpack-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "bin": {
     "webpack-react-dev": "./bin/dev.js",
     "webpack-react-build": "./bin/build.js"
