@@ -10,7 +10,7 @@ config = require cwd + '/config'
 
 module.exports =
   entry: [
-    cwd + '/app/router.cjsx'
+    cwd + '/app/index.cjsx'
   ]
   output:
     path: cwd + '/build'

@@ -1,9 +1,9 @@
 {
-  "name": "ers-react",
-  "version": "0.1.5",
+  "name": "@ersinfotech/webpack-react",
+  "version": "0.1.0",
   "bin": {
-    "ersdev": "./bin/dev.js",
-    "ersbuild": "./bin/build.js"
+    "webpack-react-dev": "./bin/dev.js",
+    "webpack-react-build": "./bin/build.js"
   },
   "dependencies": {
     "cjsx-loader": "1.1.0",
